@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "cyzos4fLNxVXautP7WNPK4a0PedL2jgh1ZD3m+RAX2wmDWFia2SHhizGK6nBl0pwSQl2bI5d6BS2olPIfocDWw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\USER\\source\\repos\\APIrequest\\APIrequest\\APIrequest.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\USER\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\USER\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.23\\microsoft.netcore.app.host.win-x64.3.1.23.nupkg.sha512"
+  ],
+  "logs": []
+}

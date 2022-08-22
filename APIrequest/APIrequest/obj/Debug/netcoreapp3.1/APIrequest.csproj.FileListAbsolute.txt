@@ -1,0 +1,16 @@
+C:\Users\USER\source\repos\APIrequest\APIrequest\bin\Debug\netcoreapp3.1\APIrequest.exe
+C:\Users\USER\source\repos\APIrequest\APIrequest\bin\Debug\netcoreapp3.1\APIrequest.deps.json
+C:\Users\USER\source\repos\APIrequest\APIrequest\bin\Debug\netcoreapp3.1\APIrequest.runtimeconfig.json
+C:\Users\USER\source\repos\APIrequest\APIrequest\bin\Debug\netcoreapp3.1\APIrequest.runtimeconfig.dev.json
+C:\Users\USER\source\repos\APIrequest\APIrequest\bin\Debug\netcoreapp3.1\APIrequest.dll
+C:\Users\USER\source\repos\APIrequest\APIrequest\bin\Debug\netcoreapp3.1\APIrequest.pdb
+C:\Users\USER\source\repos\APIrequest\APIrequest\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\USER\source\repos\APIrequest\APIrequest\obj\Debug\netcoreapp3.1\APIrequest.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\APIrequest\APIrequest\obj\Debug\netcoreapp3.1\APIrequest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\APIrequest\APIrequest\obj\Debug\netcoreapp3.1\APIrequest.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\APIrequest\APIrequest\obj\Debug\netcoreapp3.1\APIrequest.AssemblyInfo.cs
+C:\Users\USER\source\repos\APIrequest\APIrequest\obj\Debug\netcoreapp3.1\APIrequest.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\APIrequest\APIrequest\obj\Debug\netcoreapp3.1\APIrequest.csproj.CopyComplete
+C:\Users\USER\source\repos\APIrequest\APIrequest\obj\Debug\netcoreapp3.1\APIrequest.dll
+C:\Users\USER\source\repos\APIrequest\APIrequest\obj\Debug\netcoreapp3.1\APIrequest.pdb
+C:\Users\USER\source\repos\APIrequest\APIrequest\obj\Debug\netcoreapp3.1\APIrequest.genruntimeconfig.cache
