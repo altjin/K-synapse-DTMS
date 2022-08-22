@@ -7,10 +7,10 @@ namespace APIrequest
         static void Main(string[] args)
         {
             // DB data
-            string clientId = "8DEv1AMNXczW3y4U15LL3jYf62jK93n5";
-            string userKey = "f23L7kvR3JPwAtHab-PBqwWRNVfavMwe-ESQseRYZwHva";
-            string cloudOrg = "bixbkxu";
-            string cloudTenant = "DefaultTenant";
+            string clientId;
+            string userKey;
+            string cloudOrg;
+            string cloudTenant;
 
             string organizationUnitId = "3610919";  // 풀더 아이디
             string filter = "Faulted"; // filter: 선택 사항
